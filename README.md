@@ -70,12 +70,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-(You can add screenshots here)
-
----
-
 ## 🏁 License
 
 This project is open source. Feel free to fork and enhance it!
